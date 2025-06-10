@@ -1,5 +1,7 @@
 # Content Developer's Review Workflow – Internal Documentation (Portfolio Sample)
 
+This sample shows how I documented our team's content review workflow at Course Hero. It demonstrates my ability to standardize processes, use clear steps, and support reviewer alignment.
+
 **Audience:** Internal content developers  
 **Purpose:** To standardize the academic content review process, improve alignment, and reduce quality issues across the Computer Science team.
 
@@ -13,7 +15,7 @@ This document outlines the end-to-end process for reviewing academic solutions s
 
 ## Step 1: Initial Triage
 
-- Go to the Review Queue Tool site.
+- Go to the [Review Queue Tool] site.
 - Choose the subject/s you want to review and start reviewing.
 - For the below instructions, follow the review guidelines document.
 - Count the number of questions.
@@ -21,7 +23,7 @@ This document outlines the end-to-end process for reviewing academic solutions s
   - Complete (not missing major parts)
   - No copyright issues
   - Answerable
-- If question has issue, skip with approriate reason accordingly.
+- If the question has an issue, skip with appropriate reason accordingly.
 
 ---
 
@@ -36,7 +38,7 @@ For below instructions, use the Universal Rubric for reviewing the solution.
 
 ## Step 3: Feedback & Scoring
 - Write constructive feedback using the feedback guidelines.  
-- Click the Moderator Tool button to flag the items with issues.
+- Click the [Moderator Tool] button to flag the items with issues.
 
 ---
 
@@ -49,5 +51,5 @@ For below instructions, use the Universal Rubric for reviewing the solution.
 
 ## Notes
 
-- Refer to the Tracker Tool to track subjects queue.
+- Refer to the [Tracker Tool] to track subjects queue.
 - Use Worksnap for time tracking, and log manual tasks as needed.
